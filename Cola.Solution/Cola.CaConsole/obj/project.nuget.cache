@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W1LDBcy2cKhvhZ6aS7UKIp4MJJje9Th/xQtiRiV+Vbccew770ThWawDuT/kaaWDPCQyEWR1LbKmTtTrHlHCj8g==",
+  "success": true,
+  "projectFilePath": "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

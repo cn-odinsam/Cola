@@ -1,0 +1,6 @@
+obj\Debug\net6.0/Greet.cs \
+obj\Debug\net6.0/GreetGrpc.cs: C:/Users/ASUS/.nuget/packages/grpc.tools/2.46.1/build/native/include/google/protobuf/duration.proto\
+ C:/Users/ASUS/.nuget/packages/grpc.tools/2.46.1/build/native/include/google/protobuf/timestamp.proto\
+ C:/Users/ASUS/.nuget/packages/grpc.tools/2.46.1/build/native/include/google/protobuf/wrappers.proto\
+ C:/Users/ASUS/.nuget/packages/grpc.tools/2.46.1/build/native/include/google/protobuf/any.proto\
+ ../WebApplication1Test/Protos/greet.proto

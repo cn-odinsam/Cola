@@ -1,0 +1,42 @@
+﻿【 LogId 】: 484699215319142400 
+【 Log Level 】: Error 
+【 LogTime 】: 2023-08-30 20:21:38 
+【 Exception Message 】: log error
+【 Exception Info 】: 
+{
+    "ClassName": "System.Exception",
+    "Message": "log error",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": null,
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": null,
+    "HResult": -2146233088,
+    "Source": null,
+    "WatsonBuckets": null
+}
+****************************************************************************************************
+
+【 LogId 】: 484699216078311424 
+【 Log Level 】: Error 
+【 LogTime 】: 2023-08-30 20:21:38 
+【 Exception Message 】: this is error
+【 Exception Info 】: 
+{
+    "ClassName": "System.Exception",
+    "Message": "this is error",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": null,
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": null,
+    "HResult": -2146233088,
+    "Source": null,
+    "WatsonBuckets": null
+}
+****************************************************************************************************
+
