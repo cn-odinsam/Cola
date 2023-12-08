@@ -1,0 +1,12 @@
+E:\GitHub\OdinCola\Cola.Solution\Cola.CwConsole\bin\Debug\net6.0\Cola.CaConsole.deps.json
+E:\GitHub\OdinCola\Cola.Solution\Cola.CwConsole\bin\Debug\net6.0\Cola.CaConsole.dll
+E:\GitHub\OdinCola\Cola.Solution\Cola.CwConsole\bin\Debug\net6.0\Cola.CaConsole.pdb
+E:\GitHub\OdinCola\Cola.Solution\Cola.CwConsole\obj\Debug\net6.0\Cola.CwConsole.csproj.AssemblyReference.cache
+E:\GitHub\OdinCola\Cola.Solution\Cola.CwConsole\obj\Debug\net6.0\Cola.CwConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\OdinCola\Cola.Solution\Cola.CwConsole\obj\Debug\net6.0\Cola.CwConsole.AssemblyInfoInputs.cache
+E:\GitHub\OdinCola\Cola.Solution\Cola.CwConsole\obj\Debug\net6.0\Cola.CwConsole.AssemblyInfo.cs
+E:\GitHub\OdinCola\Cola.Solution\Cola.CwConsole\obj\Debug\net6.0\Cola.CwConsole.csproj.CoreCompileInputs.cache
+E:\GitHub\OdinCola\Cola.Solution\Cola.CwConsole\obj\Debug\net6.0\Cola.CaConsole.dll
+E:\GitHub\OdinCola\Cola.Solution\Cola.CwConsole\obj\Debug\net6.0\refint\Cola.CaConsole.dll
+E:\GitHub\OdinCola\Cola.Solution\Cola.CwConsole\obj\Debug\net6.0\Cola.CaConsole.pdb
+E:\GitHub\OdinCola\Cola.Solution\Cola.CwConsole\obj\Debug\net6.0\ref\Cola.CaConsole.dll

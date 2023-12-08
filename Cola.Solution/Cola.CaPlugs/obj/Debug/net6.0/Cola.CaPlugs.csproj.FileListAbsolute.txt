@@ -1,0 +1,12 @@
+E:\GitHub\OdinCola\Cola.Solution\Cola.CaPlugs\bin\Debug\net6.0\Cola.CaPlugs.deps.json
+E:\GitHub\OdinCola\Cola.Solution\Cola.CaPlugs\bin\Debug\net6.0\Cola.CaPlugs.dll
+E:\GitHub\OdinCola\Cola.Solution\Cola.CaPlugs\bin\Debug\net6.0\Cola.CaPlugs.pdb
+E:\GitHub\OdinCola\Cola.Solution\Cola.CaPlugs\obj\Debug\net6.0\Cola.CaPlugs.csproj.AssemblyReference.cache
+E:\GitHub\OdinCola\Cola.Solution\Cola.CaPlugs\obj\Debug\net6.0\Cola.CaPlugs.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\OdinCola\Cola.Solution\Cola.CaPlugs\obj\Debug\net6.0\Cola.CaPlugs.AssemblyInfoInputs.cache
+E:\GitHub\OdinCola\Cola.Solution\Cola.CaPlugs\obj\Debug\net6.0\Cola.CaPlugs.AssemblyInfo.cs
+E:\GitHub\OdinCola\Cola.Solution\Cola.CaPlugs\obj\Debug\net6.0\Cola.CaPlugs.csproj.CoreCompileInputs.cache
+E:\GitHub\OdinCola\Cola.Solution\Cola.CaPlugs\obj\Debug\net6.0\Cola.CaPlugs.dll
+E:\GitHub\OdinCola\Cola.Solution\Cola.CaPlugs\obj\Debug\net6.0\refint\Cola.CaPlugs.dll
+E:\GitHub\OdinCola\Cola.Solution\Cola.CaPlugs\obj\Debug\net6.0\Cola.CaPlugs.pdb
+E:\GitHub\OdinCola\Cola.Solution\Cola.CaPlugs\obj\Debug\net6.0\ref\Cola.CaPlugs.dll
