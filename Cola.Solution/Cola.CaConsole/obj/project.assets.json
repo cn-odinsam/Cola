@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj",
+      "projectUniqueName": "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj",
       "projectName": "Cola.CaConsole",
-      "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj",
+      "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\obj\\",
+      "outputPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

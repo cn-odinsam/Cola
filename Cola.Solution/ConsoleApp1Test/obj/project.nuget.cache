@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lpVKhtwQe4GMczyvNS/cjew/cgrlVP4LMnUh5fBb0cqIdaLUfMDXH3JVUfcwHX//dpmlnEFxdyEuRzBU6RfkLA==",
+  "dgSpecHash": "8zYcQ+fd2JNf2c3LpJc9iXuE7BAFRJ/tZvAKikFo3z6M4mngMyZE8bwFPr1ZssSGfi5z9nxMqhXEORrjZsZY3Q==",
   "success": true,
-  "projectFilePath": "E:\\github\\cola\\Cola.Solution\\ConsoleApp1Test\\ConsoleApp1Test.csproj",
+  "projectFilePath": "E:\\github\\Cola\\Cola.Solution\\ConsoleApp1Test\\ConsoleApp1Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\grpc.aspnetcore\\2.46.0\\grpc.aspnetcore.2.46.0.nupkg.sha512",

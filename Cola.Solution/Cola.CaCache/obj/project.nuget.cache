@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8f0Gr6SajdBxBaF7HgETiGeG15BYDljBJay8VM5ySaDuX8QhkBSZni35wPHppbrhhSitCS0Ks/GTk9TdS6PVAA==",
+  "dgSpecHash": "RQqh+hqxBBBySO/NBHzHXX9tE8qqCwn0Oa1OHxNHfpWb/IUjdv1/R8yvrcHf+43pnilnVzsWVFStdf+IBACzxw==",
   "success": true,
-  "projectFilePath": "E:\\github\\cola\\Cola.Solution\\Cola.CaCache\\Cola.CaCache.csproj",
+  "projectFilePath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaCache\\Cola.CaCache.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",

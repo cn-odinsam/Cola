@@ -3905,11 +3905,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\github\\cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj",
+      "projectUniqueName": "E:\\github\\Cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj",
       "projectName": "Cola.CaSnowFlake",
-      "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj",
+      "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaSnowFlake\\obj\\",
+      "outputPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaSnowFlake\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3926,14 +3926,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj": {
-              "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj"
+            "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj": {
+              "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj"
             },
-            "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj": {
-              "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj"
+            "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj": {
+              "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj"
             },
-            "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
-              "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj"
+            "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
+              "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj"
             }
           }
         }

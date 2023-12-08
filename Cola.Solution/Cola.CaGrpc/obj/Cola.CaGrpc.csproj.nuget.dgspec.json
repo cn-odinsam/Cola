@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\github\\cola\\Cola.Solution\\Cola.CaGrpc\\Cola.CaGrpc.csproj": {}
+    "E:\\github\\Cola\\Cola.Solution\\Cola.CaGrpc\\Cola.CaGrpc.csproj": {}
   },
   "projects": {
-    "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj": {
+    "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj",
+        "projectUniqueName": "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj",
         "projectName": "Cola.CaConsole",
-        "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj",
+        "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\obj\\",
+        "outputPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "E:\\github\\cola\\Cola.Solution\\Cola.CaGrpc\\Cola.CaGrpc.csproj": {
+    "E:\\github\\Cola\\Cola.Solution\\Cola.CaGrpc\\Cola.CaGrpc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\github\\cola\\Cola.Solution\\Cola.CaGrpc\\Cola.CaGrpc.csproj",
+        "projectUniqueName": "E:\\github\\Cola\\Cola.Solution\\Cola.CaGrpc\\Cola.CaGrpc.csproj",
         "projectName": "Cola.CaGrpc",
-        "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaGrpc\\Cola.CaGrpc.csproj",
+        "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaGrpc\\Cola.CaGrpc.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaGrpc\\obj\\",
+        "outputPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaGrpc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,14 +89,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\github\\cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj": {
-                "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj"
+              "E:\\github\\Cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj": {
+                "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj"
               },
-              "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj": {
-                "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj"
+              "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj": {
+                "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj"
               },
-              "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
-                "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj"
+              "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
+                "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "E:\\github\\cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj": {
+    "E:\\github\\Cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\github\\cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj",
+        "projectUniqueName": "E:\\github\\Cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj",
         "projectName": "Cola.CaLog",
-        "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj",
+        "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaLog\\obj\\",
+        "outputPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaLog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -172,14 +172,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj": {
-                "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj"
+              "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj": {
+                "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj"
               },
-              "E:\\github\\cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj": {
-                "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj"
+              "E:\\github\\Cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj": {
+                "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj"
               },
-              "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
-                "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj"
+              "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
+                "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj"
               }
             }
           }
@@ -231,14 +231,14 @@
         }
       }
     },
-    "E:\\github\\cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj": {
+    "E:\\github\\Cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\github\\cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj",
+        "projectUniqueName": "E:\\github\\Cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj",
         "projectName": "Cola.CaSnowFlake",
-        "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj",
+        "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaSnowFlake\\Cola.CaSnowFlake.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaSnowFlake\\obj\\",
+        "outputPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaSnowFlake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -255,14 +255,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj": {
-                "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj"
+              "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj": {
+                "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj"
               },
-              "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj": {
-                "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj"
+              "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj": {
+                "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj"
               },
-              "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
-                "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj"
+              "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
+                "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj"
               }
             }
           }
@@ -296,14 +296,14 @@
         }
       }
     },
-    "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj": {
+    "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj",
+        "projectUniqueName": "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj",
         "projectName": "Cola.CaUtils",
-        "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj",
+        "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\obj\\",
+        "outputPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -377,14 +377,14 @@
         }
       }
     },
-    "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
+    "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj",
+        "projectUniqueName": "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj",
         "projectName": "Cola.Models.Core",
-        "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj",
+        "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\obj\\",
+        "outputPath": "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -401,8 +401,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj": {
-                "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj"
+              "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj": {
+                "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj"
               }
             }
           }

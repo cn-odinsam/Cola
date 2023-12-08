@@ -2705,11 +2705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj",
+      "projectUniqueName": "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj",
       "projectName": "Cola.CaUtils",
-      "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj",
+      "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\obj\\",
+      "outputPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

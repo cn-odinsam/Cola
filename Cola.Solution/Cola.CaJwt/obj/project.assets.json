@@ -4055,11 +4055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\github\\cola\\Cola.Solution\\Cola.CaJwt\\Cola.CaJwt.csproj",
+      "projectUniqueName": "E:\\github\\Cola\\Cola.Solution\\Cola.CaJwt\\Cola.CaJwt.csproj",
       "projectName": "Cola.CaJwt",
-      "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaJwt\\Cola.CaJwt.csproj",
+      "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaJwt\\Cola.CaJwt.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaJwt\\obj\\",
+      "outputPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaJwt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4076,14 +4076,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj": {
-              "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj"
+            "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj": {
+              "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaConsole\\Cola.CaConsole.csproj"
             },
-            "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj": {
-              "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj"
+            "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj": {
+              "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaUtils\\Cola.CaUtils.csproj"
             },
-            "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
-              "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj"
+            "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
+              "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj"
             }
           }
         }

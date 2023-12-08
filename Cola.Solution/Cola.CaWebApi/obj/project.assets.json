@@ -4206,11 +4206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\github\\cola\\Cola.Solution\\Cola.CaWebApi\\Cola.CaWebApi.csproj",
+      "projectUniqueName": "E:\\github\\Cola\\Cola.Solution\\Cola.CaWebApi\\Cola.CaWebApi.csproj",
       "projectName": "Cola.CaWebApi",
-      "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaWebApi\\Cola.CaWebApi.csproj",
+      "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaWebApi\\Cola.CaWebApi.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaWebApi\\obj\\",
+      "outputPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4227,11 +4227,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\github\\cola\\Cola.Solution\\Cola.CAException\\Cola.CAException.csproj": {
-              "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CAException\\Cola.CAException.csproj"
+            "E:\\github\\Cola\\Cola.Solution\\Cola.CAException\\Cola.CAException.csproj": {
+              "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CAException\\Cola.CAException.csproj"
             },
-            "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
-              "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj"
+            "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj": {
+              "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.Models.Core\\Cola.Models.Core.csproj"
             }
           }
         }

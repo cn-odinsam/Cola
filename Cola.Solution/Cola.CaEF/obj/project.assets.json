@@ -4834,11 +4834,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\github\\cola\\Cola.Solution\\Cola.CaEF\\Cola.CaEF.csproj",
+      "projectUniqueName": "E:\\github\\Cola\\Cola.Solution\\Cola.CaEF\\Cola.CaEF.csproj",
       "projectName": "Cola.CaEF",
-      "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaEF\\Cola.CaEF.csproj",
+      "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaEF\\Cola.CaEF.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaEF\\obj\\",
+      "outputPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaEF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4855,14 +4855,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\github\\cola\\Cola.Solution\\Cola.CaCache\\Cola.CaCache.csproj": {
-              "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaCache\\Cola.CaCache.csproj"
+            "E:\\github\\Cola\\Cola.Solution\\Cola.CaCache\\Cola.CaCache.csproj": {
+              "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaCache\\Cola.CaCache.csproj"
             },
-            "E:\\github\\cola\\Cola.Solution\\Cola.CAException\\Cola.CAException.csproj": {
-              "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CAException\\Cola.CAException.csproj"
+            "E:\\github\\Cola\\Cola.Solution\\Cola.CAException\\Cola.CAException.csproj": {
+              "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CAException\\Cola.CAException.csproj"
             },
-            "E:\\github\\cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj": {
-              "projectPath": "E:\\github\\cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj"
+            "E:\\github\\Cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj": {
+              "projectPath": "E:\\github\\Cola\\Cola.Solution\\Cola.CaLog\\Cola.CaLog.csproj"
             }
           }
         }
